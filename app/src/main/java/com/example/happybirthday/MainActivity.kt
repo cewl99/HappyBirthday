@@ -38,7 +38,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background)
                 {
-                    GreetingText("Happy Birthday Cesar !", "From Emma")
+                    GreetingText("Happy Birthday Balou !", "From Emma")
                 }
             }
         }
